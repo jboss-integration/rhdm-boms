@@ -15,7 +15,7 @@ To use the BOM, import into your dependency management:
             <dependency>
                <groupId>org.jboss.bom.rhdm</groupId>
                <artifactId>rhdm-platform-bom</artifactId>
-               <version>7.0.0-SNAPSHOT</version>
+               <version>7.1.0-SNAPSHOT</version>
                <type>pom</scope>
                <scope>import</scope>
             </dependency>
