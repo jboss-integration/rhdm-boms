@@ -11,7 +11,7 @@ To use the BOM, import into your dependency management:
     <dependencyManagement>
         <dependencies>
             <dependency>
-               <groupId>org.jboss.bom.rhdm</groupId>
+               <groupId>org.jboss.bom.rhba</groupId>
                <artifactId>jboss-javaee-7.0-with-rhdm</artifactId>
                <version>7.1.0-SNAPSHOT</version>
                <type>pom</scope>
